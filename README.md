@@ -1,4 +1,4 @@
-# os-lab-
+# os-lab
 Os lab codes performed as per the course curriculum of Nirma University
 
 
